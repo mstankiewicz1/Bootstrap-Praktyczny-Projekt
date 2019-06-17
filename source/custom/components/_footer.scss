@@ -12,3 +12,24 @@
 .sk-footer-top-content {
   @include sk-relative-zindex;
 }
+
+.sk-footer-text {
+  font-size: .75rem;
+  color: $gray-600;
+}
+
+.sk-footer-p {
+  line-height: 2;
+}
+
+.sk-footer-contact-list {
+  margin-bottom: .75rem;
+}
+
+.sk-footer-contact-item {
+  padding: .2rem 0;
+}
+
+.sk-social-box {
+  @include sk-size(26px, 26px);
+}
