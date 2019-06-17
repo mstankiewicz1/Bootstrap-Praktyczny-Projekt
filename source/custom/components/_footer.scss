@@ -33,3 +33,29 @@
 .sk-social-box {
   @include sk-size(26px, 26px);
 }
+
+//kolumna newslettera
+.sk-newsletter-form-group {
+  margin-bottom: .75rem;
+}
+
+.sk-newsletter-form-control {
+  height: 1.55rem;
+  font-size: .75rem;
+}
+
+.sk-newsletter-btn {
+  padding: .25rem 1rem;
+  font-size: .625rem;
+}
+
+//sekcja copyright
+.sk-copy {
+  padding: 1rem 0;
+  font-size: .625rem;
+}
+
+.sk-copy-second {
+  margin-top: .25rem;
+  font-size: .5625rem;
+}
