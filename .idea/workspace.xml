@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1fd1dddb-e42c-4139-9465-708cc65e96ea" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
       <change beforePath="$PROJECT_DIR$/source/custom/components/_components.scss" afterPath="$PROJECT_DIR$/source/custom/components/_components.scss" />
+      <change beforePath="$PROJECT_DIR$/source/custom/components/_post-box.scss" afterPath="$PROJECT_DIR$/source/custom/components/_post-box.scss" />
+      <change beforePath="$PROJECT_DIR$/source/custom/pages/_pages.scss" afterPath="$PROJECT_DIR$/source/custom/pages/_pages.scss" />
       <change beforePath="$PROJECT_DIR$/style/style.css" afterPath="$PROJECT_DIR$/style/style.css" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -22,30 +23,20 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="361">
-              <caret line="290" column="90" lean-forward="false" selection-start-line="290" selection-start-column="74" selection-end-line="290" selection-end-column="90" />
+            <state relative-caret-position="287">
+              <caret line="265" column="38" lean-forward="false" selection-start-line="265" selection-start-column="20" selection-end-line="265" selection-end-column="38" />
               <folding>
-                <element signature="e#23810#23816#0" expanded="true" />
+                <element signature="e#23839#23845#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_post-box.scss" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/source/custom/components/_post-box.scss">
+      <file leaf-file-name="_front-page.scss" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/source/custom/pages/_front-page.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="421">
-              <caret line="62" column="21" lean-forward="false" selection-start-line="62" selection-start-column="21" selection-end-line="62" selection-end-column="21" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="_components.scss" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/source/custom/components/_components.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="160">
-              <caret line="8" column="19" lean-forward="false" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+            <state relative-caret-position="460">
+              <caret line="23" column="25" lean-forward="false" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="25" />
               <folding />
             </state>
           </provider>
@@ -112,9 +103,14 @@
         <option value="$PROJECT_DIR$/source/custom/components/_service-box.scss.css" />
         <option value="$PROJECT_DIR$/source/custom/components/_service-box.scss" />
         <option value="$PROJECT_DIR$/source/custom/components/_post-box.scss.css" />
-        <option value="$PROJECT_DIR$/source/custom/components/_components.scss" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/source/custom/components/_post-box.scss" />
+        <option value="$PROJECT_DIR$/source/custom/components/_section-header.scss.css" />
+        <option value="$PROJECT_DIR$/source/custom/components/_components.scss" />
+        <option value="$PROJECT_DIR$/source/custom/components/_section-header.scss" />
+        <option value="$PROJECT_DIR$/source/custom/pages/_front-page.scss.css" />
+        <option value="$PROJECT_DIR$/source/custom/pages/_pages.scss" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/source/custom/pages/_front-page.scss" />
       </list>
     </option>
   </component>
@@ -275,12 +271,12 @@
       <workItem from="1561496513437" duration="8506000" />
       <workItem from="1561560333546" duration="2002000" />
       <workItem from="1561667192945" duration="1295000" />
-      <workItem from="1561747933276" duration="11497000" />
+      <workItem from="1561747933276" duration="13481000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="83012000" />
+    <option name="totallyTimeSpent" value="84996000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -316,20 +312,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/source/bootstrap/mixins/_breakpoints.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1140">
-          <caret line="57" column="7" lean-forward="false" selection-start-line="57" selection-start-column="7" selection-end-line="57" selection-end-column="66" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/custom/base/_variables.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="940">
-          <caret line="47" column="25" lean-forward="false" selection-start-line="47" selection-start-column="25" selection-end-line="47" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/source/custom/components/_components.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="40">
@@ -343,7 +325,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#23810#23816#0" expanded="true" />
+            <element signature="e#23839#23845#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -404,7 +386,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#23810#23816#0" expanded="true" />
+            <element signature="e#23839#23845#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -458,7 +440,7 @@
         <state relative-caret-position="260">
           <caret line="13" column="7" lean-forward="false" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
           <folding>
-            <element signature="e#23810#23816#0" expanded="true" />
+            <element signature="e#23839#23845#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -489,7 +471,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#23810#23816#0" expanded="true" />
+            <element signature="e#23839#23845#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -499,7 +481,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#23810#23816#0" expanded="true" />
+            <element signature="e#23839#23845#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -509,7 +491,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#23810#23816#0" expanded="true" />
+            <element signature="e#23839#23845#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -540,13 +522,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="3" column="22" lean-forward="false" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/custom/pages/_pages.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -666,28 +641,52 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/source/custom/components/_post-box.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="65" column="0" lean-forward="true" selection-start-line="65" selection-start-column="0" selection-end-line="65" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/source/custom/components/_components.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="8" column="19" lean-forward="false" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+        <state relative-caret-position="180">
+          <caret line="9" column="25" lean-forward="false" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/custom/components/_section-header.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="1" column="22" lean-forward="false" selection-start-line="1" selection-start-column="22" selection-end-line="1" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/custom/pages/_pages.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="19" lean-forward="false" selection-start-line="0" selection-start-column="19" selection-end-line="0" selection-end-column="19" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="290" column="90" lean-forward="false" selection-start-line="290" selection-start-column="74" selection-end-line="290" selection-end-column="90" />
+        <state relative-caret-position="287">
+          <caret line="265" column="38" lean-forward="false" selection-start-line="265" selection-start-column="20" selection-end-line="265" selection-end-column="38" />
           <folding>
-            <element signature="e#23810#23816#0" expanded="true" />
+            <element signature="e#23839#23845#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/custom/components/_post-box.scss">
+    <entry file="file://$PROJECT_DIR$/source/custom/pages/_front-page.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="421">
-          <caret line="62" column="21" lean-forward="false" selection-start-line="62" selection-start-column="21" selection-end-line="62" selection-end-column="21" />
+        <state relative-caret-position="460">
+          <caret line="23" column="25" lean-forward="false" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="25" />
           <folding />
         </state>
       </provider>
