@@ -4,7 +4,7 @@
     <list default="true" id="1fd1dddb-e42c-4139-9465-708cc65e96ea" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/post-list.html" afterPath="$PROJECT_DIR$/post-list.html" />
-      <change beforePath="$PROJECT_DIR$/source/custom/components/_components.scss" afterPath="$PROJECT_DIR$/source/custom/components/_components.scss" />
+      <change beforePath="$PROJECT_DIR$/source/custom/components/_post-widgets.scss" afterPath="$PROJECT_DIR$/source/custom/components/_post-widgets.scss" />
       <change beforePath="$PROJECT_DIR$/style/style.css" afterPath="$PROJECT_DIR$/style/style.css" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -31,23 +31,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="post-list.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="post-list.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/post-list.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="181">
-              <caret line="140" column="61" lean-forward="false" selection-start-line="140" selection-start-column="39" selection-end-line="140" selection-end-column="61" />
+            <state relative-caret-position="261">
+              <caret line="191" column="82" lean-forward="false" selection-start-line="191" selection-start-column="82" selection-end-line="191" selection-end-column="82" />
               <folding>
-                <element signature="e#15092#15098#0" expanded="true" />
+                <element signature="e#17922#17928#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_post-widgets.scss" pinned="false" current-in-tab="true">
+      <file leaf-file-name="_post-widgets.scss" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/source/custom/components/_post-widgets.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="501">
-              <caret line="45" column="24" lean-forward="false" selection-start-line="45" selection-start-column="24" selection-end-line="45" selection-end-column="24" />
+            <state relative-caret-position="261">
+              <caret line="56" column="0" lean-forward="true" selection-start-line="56" selection-start-column="0" selection-end-line="56" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -128,8 +128,8 @@
         <option value="$PROJECT_DIR$/source/custom/components/_post-item.scss" />
         <option value="$PROJECT_DIR$/source/custom/components/_post-widgets.scss.css" />
         <option value="$PROJECT_DIR$/source/custom/components/_components.scss" />
-        <option value="$PROJECT_DIR$/post-list.html" />
         <option value="$PROJECT_DIR$/source/custom/components/_post-widgets.scss" />
+        <option value="$PROJECT_DIR$/post-list.html" />
       </list>
     </option>
   </component>
@@ -303,18 +303,18 @@
       <workItem from="1561667192945" duration="1295000" />
       <workItem from="1561747933276" duration="13569000" />
       <workItem from="1561885870819" duration="6013000" />
-      <workItem from="1561908888527" duration="8057000" />
+      <workItem from="1561908888527" duration="11279000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="99154000" />
+    <option name="totallyTimeSpent" value="102376000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16666667" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15104167" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32840723" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -694,21 +694,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/post-list.html">
+    <entry file="file://$PROJECT_DIR$/source/custom/components/_post-widgets.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="181">
-          <caret line="140" column="61" lean-forward="false" selection-start-line="140" selection-start-column="39" selection-end-line="140" selection-end-column="61" />
-          <folding>
-            <element signature="e#15092#15098#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="261">
+          <caret line="56" column="0" lean-forward="true" selection-start-line="56" selection-start-column="0" selection-end-line="56" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/custom/components/_post-widgets.scss">
+    <entry file="file://$PROJECT_DIR$/post-list.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="501">
-          <caret line="45" column="24" lean-forward="false" selection-start-line="45" selection-start-column="24" selection-end-line="45" selection-end-column="24" />
-          <folding />
+        <state relative-caret-position="261">
+          <caret line="191" column="82" lean-forward="false" selection-start-line="191" selection-start-column="82" selection-end-line="191" selection-end-column="82" />
+          <folding>
+            <element signature="e#17922#17928#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
