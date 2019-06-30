@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <title>Bootstrap - Praktyczny Projekt</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link href="https://fonts.googleapis.com/css?family=Lato:300,400|Oswald:300,400,700&display=swap&subset=latin-ext" rel="stylesheet">
+    <link rel="stylesheet" href="style/style.css">
+</head>
+<body>
+    <!--Header-->
+    <div class="bg-primary sk-header">
+        <div class="container">
+            <ul class="nav flex-column flex-md-row justify-content-lg-end text-uppercase">
+                <li class="nav-item">
+                    <a class="nav-link text-white sk-header-item-link" href="index.html">Strona Główna</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link text-white sk-header-item-link" href="portfolio.html">Realizacje</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link text-white sk-header-item-link" href="portfolio.html">Usługi</a>
+                </li>
+                <li class="nav-item sk-header-item-active">
+                    <a class="nav-link sk-header-item-link" href="post-list.html">Aktualności</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link text-white sk-header-item-link" href="shop.html">Sklep</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link text-white sk-header-item-link" href="about.html">O nas</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link text-white sk-header-item-link" href="contact.html">Kontakt</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link sk-header-item-link" href="#">
+                        <img src="images/ui/icon-top-search.png" alt="szukaj">
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link sk-header-item-link" href="#">
+                        <img src="images/ui/icon-top-cart.png" alt="koszyk">
+                    </a>
+                </li>
+            </ul>
+        </div>
+    </div>
+
+    <!-- Hero Unit -->
+    <div class="jumbotron text-center sk-hero">
+        <div class="container sk-hero-content">
+            <h1 class="text-uppercase text-white sk-hero-header">Architektura Wnętrz</h1>
+            <img class="img-fluid sk-hero-subheader" src="images/design-subheader.png" alt="">
+        </div>
+    </div>
+
+    <!--Lista wpisów-->
+    <div class="sk-post-list-page">
+        <div class="container">
+            <div class="row">
+                <div class="col text-center">
+                    <div class="sk-view-switcher">
+                        <a href="#"><img src="images/ui/view-grid.png" alt="widok siatki"></a>
+                        <a href="#"><img src="images/ui/view-list.png" alt="widok listy"></a>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-8">
+                    <div class="sk-post-item">
+                        <div class="sk-post-box">
+                            <div class="text-center bg-primary d-flex align-items-center sk-post-box-date">
+                                <div class="mx-auto sk-post-box-date-body">
+                                    <img class="d-none d-md-block mx-auto" src="images/ui/date-icon.png" alt="kalendarz">
+                                    <span class="text-white d-block sk-post-box-date-value">28 Czerwca 2019</span>
+                                </div>
+                            </div>
+                            <div class="sk-post-box-body">
+                                <div class="sk-post-box-img">
+                                    <img class="img-fluid" src="images/posts/post-1.jpg" alt="post 1">
+                                </div>
+                            </div>
+                        </div>
+                        <a class="d-block sk-post-item-link" href="post.html">
+                            <h2 class="text-uppercase sk-post-item-title">lorem ipsum</h2>
+                        </a>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus dignissimos, distinctio hic
+                            illum laboriosam nam optio quam quia, repudiandae sint ullam voluptate. Architecto asperiores
+                            corporis dolor est itaque magni, qui! Ad alias deserunt excepturi laborum molestiae molestias
+                            natus pariatur sed tempore voluptatum. A adipisci atque culpa, distinctio dolore eius fugit
+                            incidunt ipsam itaque iusto laudantium maxime nihil officiis quod sunt vitae, voluptas voluptatibus.
+                            A dolores facere libero provident sint suscipit. Aliquid dicta dignissimos et ex illum nobis,
+                            possimus totam vel?</p>
+                        <button class="btn-primary btn-sm text-uppercase text-white sk-post-item-more">Zobacz więcej</button>
+                        <div class="sk-hr"></div>
+                    </div>
+                    <div class="sk-post-item">
+                        <div class="sk-post-box">
+                            <div class="text-center bg-primary d-flex align-items-center sk-post-box-date">
+                                <div class="mx-auto sk-post-box-date-body">
+                                    <img class="d-none d-md-block mx-auto" src="images/ui/date-icon.png" alt="kalendarz">
+                                    <span class="text-white d-block sk-post-box-date-value">28 Czerwca 2019</span>
+                                </div>
+                            </div>
+                            <div class="sk-post-box-body">
+                                <div class="sk-post-box-img">
+                                    <img class="img-fluid" src="images/posts/post-2.jpg" alt="post 1">
+                                </div>
+                            </div>
+                        </div>
+                        <a class="d-block sk-post-item-link" href="post.html">
+                            <h2 class="text-uppercase sk-post-item-title">lorem ipsum</h2>
+                        </a>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus dignissimos, distinctio hic
+                            illum laboriosam nam optio quam quia, repudiandae sint ullam voluptate. Architecto asperiores
+                            corporis dolor est itaque magni, qui! Ad alias deserunt excepturi laborum molestiae molestias
+                            natus pariatur sed tempore voluptatum. A adipisci atque culpa, distinctio dolore eius fugit
+                            incidunt ipsam itaque iusto laudantium maxime nihil officiis quod sunt vitae, voluptas voluptatibus.
+                            A dolores facere libero provident sint suscipit. Aliquid dicta dignissimos et ex illum nobis,
+                            possimus totam vel?</p>
+                        <button class="btn-primary btn-sm text-uppercase text-white sk-post-item-more">Zobacz więcej</button>
+                        <div class="sk-hr"></div>
+                    </div>
+                </div>
+                <div class="col-lg-4">
+                    widgety
+                </div>
+            </div>
+
+
+        </div>
+    </div>
+
+
+    <!--Stopka-->
+    <div class="sk-footer-top">
+        <div class="container sk-footer-top-content">
+            <div class="row">
+                <!--Pierwsza kolumna-->
+                <div class="col-md-6 col-lg-3 mb-5">
+                    <h4 class="text-uppercase text-white mb-3">O nas</h4>
+                    <p class="sk-footer-text sk-footer-p">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consectetur et harum hic, incidunt ipsa molestias nesciunt, placeat porro quas, quos tenetur unde vitae? Aperiam itaque iusto nemo, quaerat sequi vero?</p>
+                </div>
+                <!--Druga kolumna-->
+                <div class="col-md-6 col-lg-3 mb5-">
+                    <h4 class="text-uppercase text-white mb-3">Nawigacja</h4>
+                    <ul class="list-unstyled">
+                        <li>
+                            <a class="text-primary sk-footer-text" href="#">Regulamin serwisu</a>
+                        </li>
+                        <li>
+                            <a class="sk-footer-text" href="#">Logowanie na konto</a>
+                        </li>
+                        <li>
+                            <a class="sk-footer-text" href="#">Wsparcie techniczne</a>
+                        </li>
+                        <li>
+                            <a class="sk-footer-text" href="#">FAQ & Pomoc</a>
+                        </li>
+                        <li>
+                            <a class="sk-footer-text" href="#">Kariera w naszej firmie</a>
+                        </li>
+                    </ul>
+                </div>
+                <!--Trzecia kolumna-->
+                <div class="col-md-6 col-lg-3 mb-5">
+                    <h4 class="text-uppercase text-white mb-3">Kontakt</h4>
+                    <ul class="list-unstyled sk-footer-text sk-footer-contact-list">
+                        <li class="sk-footer-contact-item">
+                            <span class="mr-2"><img src="images/ui/contact-footer-icon-pin.png"></span>
+                            ul. Główna 1
+                        </li>
+                        <li class="sk-footer-contact-item">
+                            <span class="mr-2"><img src="images/ui/contact-footer-icon-phone.png"></span>
+                            123-123-123
+                        </li>
+                        <li class="sk-footer-contact-item">
+                            <span class="mr-2"><img src="images/ui/contact-footer-icon-email.png"></span>
+                            email@gmail.com
+                        </li>
+                    </ul>
+                    <div class="d-flex justify-content-between w-75">
+                        <span class="bg-primary text-center sk-social-box">
+                            <a href="#">
+                                <img src="images/social/social-icon-fb.png" alt="social">
+                            </a>
+                        </span>
+                        <span class="bg-primary text-center sk-social-box">
+                            <a href="#">
+                                <img src="images/social/social-icon-inst.png" alt="social">
+                            </a>
+                        </span>
+                        <span class="bg-primary text-center sk-social-box">
+                            <a href="#">
+                                <img src="images/social/social-icon-pin.png" alt="social">
+                            </a>
+                        </span>
+                        <span class="bg-primary text-center sk-social-box">
+                            <a href="#">
+                                <img src="images/social/social-icon-plus.png" alt="social">
+                            </a>
+                        </span>
+                        <span class="bg-primary text-center sk-social-box">
+                            <a href="#">
+                                <img src="images/social/social-icon-twit.png" alt="social">
+                            </a>
+                        </span>
+                    </div>
+                </div>
+                <!--Czwarta kolumna-->
+                <div class="col-md-6 col-lg-3 mb-5">
+                    <h4 class="text-uppercase text-white mb-3">Newsletter</h4>
+                    <form action="">
+                        <div class="form-group sk-newsletter-form-group">
+                            <label class="sk-footer-text" for="email">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laudantium, quaerat.</label>
+                            <input class="form-control form-control-sm w-75 sk-newsletter-form-control" type="email" id="email" placeholder="Adres email">
+                        </div>
+                        <button class="btn btn-primary text-white text-uppercase sk-newsletter-btn">Subskrybuj</button>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!--Stopka copyright-->
+    <div class="sk-copy">
+        <div class="container text-center">
+            <span class="d-block">&copy; Copyright 2019 Nazwa Firmy Wszelkie prawa zastrzeżone</span>
+            <span class="d-block sk-copy-second">Design by Strefa Kursów</span>
+        </div>
+    </div>
+
+</body>
+</html>
