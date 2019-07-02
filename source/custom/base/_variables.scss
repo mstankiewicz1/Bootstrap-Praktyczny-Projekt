@@ -47,7 +47,12 @@ $h5-font-size: .875rem;
 //jumbotron
 $jumbotron-padding: 7rem;
 
-//paginacja
+//input
+$input-group-addon-bg: $gray-800;
+$input-group-addon-border-color: none;
+$input-border-color: $sk-input-border-color;
+
+  //paginacja
 $pagination-color: $gray-900;
 $pagination-bg: none;
 $pagination-border-width: 0;
