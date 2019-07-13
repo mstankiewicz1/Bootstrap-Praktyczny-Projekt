@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1fd1dddb-e42c-4139-9465-708cc65e96ea" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/shop.html" afterPath="$PROJECT_DIR$/shop.html" />
-      <change beforePath="$PROJECT_DIR$/source/custom/components/_components.scss" afterPath="$PROJECT_DIR$/source/custom/components/_components.scss" />
+      <change beforePath="$PROJECT_DIR$/source/custom/components/_product-item.scss" afterPath="$PROJECT_DIR$/source/custom/components/_product-item.scss" />
       <change beforePath="$PROJECT_DIR$/style/style.css" afterPath="$PROJECT_DIR$/style/style.css" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -18,21 +19,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="shop.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="shop.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/shop.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="261">
-              <caret line="138" column="70" lean-forward="true" selection-start-line="138" selection-start-column="70" selection-end-line="138" selection-end-column="70" />
+            <state relative-caret-position="101">
+              <caret line="127" column="54" lean-forward="false" selection-start-line="127" selection-start-column="32" selection-end-line="127" selection-end-column="54" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_product-item.scss" pinned="false" current-in-tab="false">
+      <file leaf-file-name="_product-item.scss" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/source/custom/components/_product-item.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="421">
-              <caret line="32" column="24" lean-forward="false" selection-start-line="32" selection-start-column="24" selection-end-line="32" selection-end-column="24" />
+            <state relative-caret-position="401">
+              <caret line="50" column="45" lean-forward="false" selection-start-line="50" selection-start-column="45" selection-end-line="50" selection-end-column="45" />
               <folding />
             </state>
           </provider>
@@ -119,8 +120,8 @@
         <option value="$PROJECT_DIR$/source/custom/components/_product-search.scss" />
         <option value="$PROJECT_DIR$/source/custom/components/_product-item.scss.css" />
         <option value="$PROJECT_DIR$/source/custom/components/_components.scss" />
-        <option value="$PROJECT_DIR$/source/custom/components/_product-item.scss" />
         <option value="$PROJECT_DIR$/shop.html" />
+        <option value="$PROJECT_DIR$/source/custom/components/_product-item.scss" />
       </list>
     </option>
   </component>
@@ -140,8 +141,10 @@
     <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="width" value="683" />
-    <option name="height" value="728" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -297,12 +300,12 @@
       <workItem from="1562014393250" duration="5407000" />
       <workItem from="1562092799255" duration="9667000" />
       <workItem from="1562176630387" duration="11247000" />
-      <workItem from="1563010868034" duration="19330000" />
+      <workItem from="1563010868034" duration="22396000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="152971000" />
+    <option name="totallyTimeSpent" value="156037000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -358,13 +361,6 @@
     <entry file="file://$PROJECT_DIR$/package-lock.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/style/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-4620">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
@@ -691,18 +687,41 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/custom/components/_product-item.scss">
+    <entry file="file://$PROJECT_DIR$/style/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="421">
-          <caret line="32" column="24" lean-forward="false" selection-start-line="32" selection-start-column="24" selection-end-line="32" selection-end-column="24" />
-          <folding />
+        <state relative-caret-position="20">
+          <caret line="5" column="100357" lean-forward="false" selection-start-line="5" selection-start-column="100357" selection-end-line="5" selection-end-column="100357" />
+          <folding>
+            <element signature="e#22064#22298#2" expanded="false" />
+            <element signature="e#23111#23264#1" expanded="false" />
+            <element signature="e#23304#23538#1" expanded="false" />
+            <element signature="e#26617#26893#2" expanded="false" />
+            <element signature="e#27734#27887#1" expanded="false" />
+            <element signature="e#27927#28203#1" expanded="false" />
+            <element signature="e#56786#56973#2" expanded="false" />
+            <element signature="e#57206#57342#2" expanded="false" />
+            <element signature="e#57757#57890#2" expanded="false" />
+            <element signature="e#59055#59208#1" expanded="false" />
+            <element signature="e#69964#70191#2" expanded="false" />
+            <element signature="e#71066#71299#2" expanded="false" />
+            <element signature="e#98507#98684#2" expanded="false" />
+            <element signature="e#98730#98907#2" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/shop.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="261">
-          <caret line="138" column="70" lean-forward="true" selection-start-line="138" selection-start-column="70" selection-end-line="138" selection-end-column="70" />
+        <state relative-caret-position="101">
+          <caret line="127" column="54" lean-forward="false" selection-start-line="127" selection-start-column="32" selection-end-line="127" selection-end-column="54" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/custom/components/_product-item.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="401">
+          <caret line="50" column="45" lean-forward="false" selection-start-line="50" selection-start-column="45" selection-end-line="50" selection-end-column="45" />
           <folding />
         </state>
       </provider>

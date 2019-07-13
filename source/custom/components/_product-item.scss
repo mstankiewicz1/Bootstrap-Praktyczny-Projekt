@@ -32,3 +32,22 @@
   font-weight: 700;
   letter-spacing: .1rem;
 }
+
+//ikona akcji produktu
+.sk-product-item-icons {
+  position: absolute;
+  top: .5rem;
+  right: 1.65rem;
+}
+
+.sk-product-item-icon {
+  margin-bottom: .75rem;
+  background-color: $gray-900;
+  @include sk-size(35px, 35px);
+}
+
+.sk-product-item.active {
+  .sk-product-item-img {
+    background-color: darken($gray-200, 12%);
+  }
+}
