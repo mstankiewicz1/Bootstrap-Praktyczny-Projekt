@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1fd1dddb-e42c-4139-9465-708cc65e96ea" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/shop.html" afterPath="$PROJECT_DIR$/shop.html" />
       <change beforePath="$PROJECT_DIR$/source/custom/components/_components.scss" afterPath="$PROJECT_DIR$/source/custom/components/_components.scss" />
       <change beforePath="$PROJECT_DIR$/style/style.css" afterPath="$PROJECT_DIR$/style/style.css" />
     </list>
@@ -21,18 +21,18 @@
       <file leaf-file-name="shop.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/shop.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="427">
-              <caret line="103" column="78" lean-forward="false" selection-start-line="103" selection-start-column="78" selection-end-line="103" selection-end-column="78" />
+            <state relative-caret-position="261">
+              <caret line="138" column="70" lean-forward="true" selection-start-line="138" selection-start-column="70" selection-end-line="138" selection-end-column="70" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_product-search.scss" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/source/custom/components/_product-search.scss">
+      <file leaf-file-name="_product-item.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/custom/components/_product-item.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="23" column="38" lean-forward="true" selection-start-line="23" selection-start-column="38" selection-end-line="23" selection-end-column="38" />
+            <state relative-caret-position="421">
+              <caret line="32" column="24" lean-forward="false" selection-start-line="32" selection-start-column="24" selection-end-line="32" selection-end-column="24" />
               <folding />
             </state>
           </provider>
@@ -70,8 +70,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/source/custom/components/_post-box.scss.css" />
-        <option value="$PROJECT_DIR$/source/custom/components/_post-box.scss" />
         <option value="$PROJECT_DIR$/source/custom/components/_section-header.scss.css" />
         <option value="$PROJECT_DIR$/source/custom/components/_section-header.scss" />
         <option value="$PROJECT_DIR$/source/custom/pages/_front-page.scss.css" />
@@ -118,8 +116,10 @@
         <option value="$PROJECT_DIR$/source/custom/pages/_portfolio-page.scss" />
         <option value="$PROJECT_DIR$/portfolio.html" />
         <option value="$PROJECT_DIR$/source/custom/components/_product-search.scss.css" />
-        <option value="$PROJECT_DIR$/source/custom/components/_components.scss" />
         <option value="$PROJECT_DIR$/source/custom/components/_product-search.scss" />
+        <option value="$PROJECT_DIR$/source/custom/components/_product-item.scss.css" />
+        <option value="$PROJECT_DIR$/source/custom/components/_components.scss" />
+        <option value="$PROJECT_DIR$/source/custom/components/_product-item.scss" />
         <option value="$PROJECT_DIR$/shop.html" />
       </list>
     </option>
@@ -211,18 +211,6 @@
             <path>
               <item name="Bootstrap - Praktyczny Projekt" type="b2602c69:ProjectViewProjectNode" />
               <item name="Bootstrap - Praktyczny Projekt" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
-              <item name="portfolio" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Bootstrap - Praktyczny Projekt" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Bootstrap - Praktyczny Projekt" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
-              <item name="ui" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Bootstrap - Praktyczny Projekt" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Bootstrap - Praktyczny Projekt" type="462c0819:PsiDirectoryNode" />
               <item name="source" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -230,6 +218,13 @@
               <item name="Bootstrap - Praktyczny Projekt" type="462c0819:PsiDirectoryNode" />
               <item name="source" type="462c0819:PsiDirectoryNode" />
               <item name="custom" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Bootstrap - Praktyczny Projekt" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Bootstrap - Praktyczny Projekt" type="462c0819:PsiDirectoryNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
+              <item name="custom" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Bootstrap - Praktyczny Projekt" type="b2602c69:ProjectViewProjectNode" />
@@ -302,12 +297,12 @@
       <workItem from="1562014393250" duration="5407000" />
       <workItem from="1562092799255" duration="9667000" />
       <workItem from="1562176630387" duration="11247000" />
-      <workItem from="1563010868034" duration="16266000" />
+      <workItem from="1563010868034" duration="19330000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="149907000" />
+    <option name="totallyTimeSpent" value="152971000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -352,14 +347,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/node_modules/bootstrap/package.json" />
     <entry file="file://$PROJECT_DIR$/source/bootstrap/bootstrap.scss">
       <provider selected="true" editor-type-id="text-editor">
@@ -680,14 +667,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/custom/components/_components.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="20" column="25" lean-forward="false" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="200">
@@ -704,10 +683,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/source/custom/components/_components.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="21" column="23" lean-forward="false" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/custom/components/_product-item.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="421">
+          <caret line="32" column="24" lean-forward="false" selection-start-line="32" selection-start-column="24" selection-end-line="32" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/shop.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="427">
-          <caret line="103" column="78" lean-forward="false" selection-start-line="103" selection-start-column="78" selection-end-line="103" selection-end-column="78" />
+        <state relative-caret-position="261">
+          <caret line="138" column="70" lean-forward="true" selection-start-line="138" selection-start-column="70" selection-end-line="138" selection-end-column="70" />
           <folding />
         </state>
       </provider>
