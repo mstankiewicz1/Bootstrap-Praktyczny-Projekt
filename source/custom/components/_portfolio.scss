@@ -32,3 +32,21 @@
     @include sk-bg-overlay($sk-accent-color, .8);
   }
 }
+
+//style dla portfolio item
+.sk-portfolio-item {
+  position: relative;
+  margin-bottom: 1.875rem;
+    .sk-hr {
+        margin: 1rem 0;
+    }
+}
+
+.sk-portfolio-item-info {
+  @include sk-font-light-secondary;
+}
+
+.sk-portfolio-box-header {
+  font-size: 1.125rem;
+  letter-spacing: .2rem;
+}
