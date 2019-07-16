@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1fd1dddb-e42c-4139-9465-708cc65e96ea" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/product.html" afterPath="$PROJECT_DIR$/product.html" />
-      <change beforePath="$PROJECT_DIR$/source/custom/components/_components.scss" afterPath="$PROJECT_DIR$/source/custom/components/_components.scss" />
-      <change beforePath="$PROJECT_DIR$/source/custom/pages/_product-page.scss" afterPath="$PROJECT_DIR$/source/custom/pages/_product-page.scss" />
+      <change beforePath="$PROJECT_DIR$/source/bootstrap/bootstrap.scss" afterPath="$PROJECT_DIR$/source/bootstrap/bootstrap.scss" />
       <change beforePath="$PROJECT_DIR$/style/style.css" afterPath="$PROJECT_DIR$/style/style.css" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -31,11 +29,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_tabs.scss" pinned="false" current-in-tab="true">
+      <file leaf-file-name="_tabs.scss" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/source/custom/components/_tabs.scss">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="260">
               <caret line="13" column="38" lean-forward="false" selection-start-line="13" selection-start-column="38" selection-end-line="13" selection-end-column="38" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="bootstrap.scss" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/source/bootstrap/bootstrap.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="440">
+              <caret line="40" column="2" lean-forward="false" selection-start-line="40" selection-start-column="2" selection-end-line="40" selection-end-column="2" />
               <folding />
             </state>
           </provider>
@@ -73,7 +81,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/source/custom/components/_post-item.scss" />
         <option value="$PROJECT_DIR$/source/custom/components/_post-widgets.scss.css" />
         <option value="$PROJECT_DIR$/source/custom/components/_pagination.scss.css" />
         <option value="$PROJECT_DIR$/source/custom/components/_pagination.scss" />
@@ -124,6 +131,7 @@
         <option value="$PROJECT_DIR$/source/custom/components/_tabs.scss.css" />
         <option value="$PROJECT_DIR$/source/custom/components/_components.scss" />
         <option value="$PROJECT_DIR$/source/custom/components/_tabs.scss" />
+        <option value="$PROJECT_DIR$/source/bootstrap/bootstrap.scss" />
       </list>
     </option>
   </component>
@@ -215,6 +223,12 @@
               <item name="Bootstrap - Praktyczny Projekt" type="b2602c69:ProjectViewProjectNode" />
               <item name="Bootstrap - Praktyczny Projekt" type="462c0819:PsiDirectoryNode" />
               <item name="source" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Bootstrap - Praktyczny Projekt" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Bootstrap - Praktyczny Projekt" type="462c0819:PsiDirectoryNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
+              <item name="bootstrap" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Bootstrap - Praktyczny Projekt" type="b2602c69:ProjectViewProjectNode" />
@@ -321,12 +335,12 @@
       <workItem from="1563010868034" duration="22847000" />
       <workItem from="1563146886756" duration="1060000" />
       <workItem from="1563218957493" duration="4956000" />
-      <workItem from="1563299758460" duration="6746000" />
+      <workItem from="1563299758460" duration="8042000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="169250000" />
+    <option name="totallyTimeSpent" value="170546000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -371,13 +385,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/gulpfile.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="16" column="42" lean-forward="false" selection-start-line="16" selection-start-column="42" selection-end-line="16" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/source/style.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
@@ -640,22 +647,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="20">
           <caret line="5" column="100357" lean-forward="false" selection-start-line="5" selection-start-column="100357" selection-end-line="5" selection-end-column="100357" />
-          <folding>
-            <element signature="e#22064#22298#2" expanded="false" />
-            <element signature="e#23111#23264#1" expanded="false" />
-            <element signature="e#23304#23538#1" expanded="false" />
-            <element signature="e#26617#26893#2" expanded="false" />
-            <element signature="e#27734#27887#1" expanded="false" />
-            <element signature="e#27927#28203#1" expanded="false" />
-            <element signature="e#56786#56973#2" expanded="false" />
-            <element signature="e#57206#57342#2" expanded="false" />
-            <element signature="e#57757#57890#2" expanded="false" />
-            <element signature="e#59055#59208#1" expanded="false" />
-            <element signature="e#69964#70191#2" expanded="false" />
-            <element signature="e#71066#71299#2" expanded="false" />
-            <element signature="e#98507#98684#2" expanded="false" />
-            <element signature="e#98730#98907#2" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -743,6 +735,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="260">
           <caret line="13" column="38" lean-forward="false" selection-start-line="13" selection-start-column="38" selection-end-line="13" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/bootstrap/bootstrap.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="40" column="2" lean-forward="false" selection-start-line="40" selection-start-column="2" selection-end-line="40" selection-end-column="2" />
           <folding />
         </state>
       </provider>
